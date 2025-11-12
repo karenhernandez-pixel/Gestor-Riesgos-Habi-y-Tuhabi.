@@ -1,0 +1,1 @@
+module.exports = { content: ['./index.html','./src/**/*.{js,jsx}'], theme:{extend:{colors:{habiPurple:'#5F259F',habiGreen:'#22C55E'}}}, plugins:[] }
